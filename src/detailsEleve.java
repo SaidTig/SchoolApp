@@ -86,7 +86,7 @@ public class detailsEleve extends JFrame {
 		lblEcole.setBounds(0, 40, 180, 15);
 		panel2.add(lblEcole);
 		
-		JLabel lblNiveau = new JLabel("Niveau:");
+		JLabel lblNiveau = new JLabel("Niveau :");
 		lblNiveau.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblNiveau.setBounds(0, 60, 180, 15);
 		panel2.add(lblNiveau);
@@ -96,7 +96,7 @@ public class detailsEleve extends JFrame {
 		lblClasse.setBounds(0, 80, 180, 15);
 		panel2.add(lblClasse);
 		
-		JLabel lblTel = new JLabel("Téléphone");
+		JLabel lblTel = new JLabel("Téléphone :");
 		lblTel.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblTel.setBounds(0, 100, 180, 15);
 		panel2.add(lblTel);
